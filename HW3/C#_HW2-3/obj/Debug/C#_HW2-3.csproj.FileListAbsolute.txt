@@ -1,0 +1,7 @@
+D:\C#\HW3\C#_HW2-3\bin\Debug\C#_HW2-3.exe.config
+D:\C#\HW3\C#_HW2-3\bin\Debug\C#_HW2-3.exe
+D:\C#\HW3\C#_HW2-3\bin\Debug\C#_HW2-3.pdb
+D:\C#\HW3\C#_HW2-3\obj\Debug\C#_HW2-3.csproj.AssemblyReference.cache
+D:\C#\HW3\C#_HW2-3\obj\Debug\C#_HW2-3.csproj.CoreCompileInputs.cache
+D:\C#\HW3\C#_HW2-3\obj\Debug\C#_HW2-3.exe
+D:\C#\HW3\C#_HW2-3\obj\Debug\C#_HW2-3.pdb

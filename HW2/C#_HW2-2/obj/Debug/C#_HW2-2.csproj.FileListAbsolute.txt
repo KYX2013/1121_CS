@@ -1,0 +1,7 @@
+D:\C#\HW2\C#_HW2-2\bin\Debug\C#_HW2-2.exe.config
+D:\C#\HW2\C#_HW2-2\bin\Debug\C#_HW2-2.exe
+D:\C#\HW2\C#_HW2-2\bin\Debug\C#_HW2-2.pdb
+D:\C#\HW2\C#_HW2-2\obj\Debug\C#_HW2-2.csproj.AssemblyReference.cache
+D:\C#\HW2\C#_HW2-2\obj\Debug\C#_HW2-2.csproj.CoreCompileInputs.cache
+D:\C#\HW2\C#_HW2-2\obj\Debug\C#_HW2-2.exe
+D:\C#\HW2\C#_HW2-2\obj\Debug\C#_HW2-2.pdb
