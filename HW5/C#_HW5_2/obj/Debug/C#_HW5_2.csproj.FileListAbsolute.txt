@@ -1,0 +1,7 @@
+D:\C#\HW5\C#_HW5_2\bin\Debug\C#_HW5_2.exe.config
+D:\C#\HW5\C#_HW5_2\bin\Debug\C#_HW5_2.exe
+D:\C#\HW5\C#_HW5_2\bin\Debug\C#_HW5_2.pdb
+D:\C#\HW5\C#_HW5_2\obj\Debug\C#_HW5_2.csproj.AssemblyReference.cache
+D:\C#\HW5\C#_HW5_2\obj\Debug\C#_HW5_2.csproj.CoreCompileInputs.cache
+D:\C#\HW5\C#_HW5_2\obj\Debug\C#_HW5_2.exe
+D:\C#\HW5\C#_HW5_2\obj\Debug\C#_HW5_2.pdb

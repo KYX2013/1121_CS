@@ -1,0 +1,10 @@
+D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.AssemblyReference.cache
+D:\C#\HW9\C#_HW9-1\obj\Debug\C__HW9_1.Form1.resources
+D:\C#\HW9\C#_HW9-1\obj\Debug\C__HW9_1.Properties.Resources.resources
+D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.GenerateResource.cache
+D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.CoreCompileInputs.cache
+D:\C#\HW9\C#_HW9-1\bin\Debug\C#_HW9-1.exe.config
+D:\C#\HW9\C#_HW9-1\bin\Debug\C#_HW9-1.exe
+D:\C#\HW9\C#_HW9-1\bin\Debug\C#_HW9-1.pdb
+D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.exe
+D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.pdb
