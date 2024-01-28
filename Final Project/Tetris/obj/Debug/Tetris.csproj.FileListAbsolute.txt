@@ -1,0 +1,13 @@
+D:\C#\Final Project\Tetris\bin\Debug\Tetris.exe.config
+D:\C#\Final Project\Tetris\bin\Debug\Tetris.exe
+D:\C#\Final Project\Tetris\bin\Debug\Tetris.pdb
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.frmMain.resources
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.Map_Menu.resources
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.Playing.resources
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.Theme_menu.resources
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.exe
+D:\C#\Final Project\Tetris\obj\Debug\Tetris.pdb
