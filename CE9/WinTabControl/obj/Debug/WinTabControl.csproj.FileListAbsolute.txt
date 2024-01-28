@@ -1,0 +1,10 @@
+D:\C#\CE9\WinTabControl\bin\Debug\WinTabControl.exe.config
+D:\C#\CE9\WinTabControl\bin\Debug\WinTabControl.exe
+D:\C#\CE9\WinTabControl\bin\Debug\WinTabControl.pdb
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.csproj.AssemblyReference.cache
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.Form1.resources
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.Properties.Resources.resources
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.csproj.GenerateResource.cache
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.csproj.CoreCompileInputs.cache
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.exe
+D:\C#\CE9\WinTabControl\obj\Debug\WinTabControl.pdb

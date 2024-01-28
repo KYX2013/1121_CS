@@ -1,0 +1,10 @@
+D:\C#\CE14\C#_CE_14\bin\Debug\DataBindingDemo1.exe.config
+D:\C#\CE14\C#_CE_14\bin\Debug\DataBindingDemo1.exe
+D:\C#\CE14\C#_CE_14\bin\Debug\DataBindingDemo1.pdb
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\C#_CE_14.csproj.AssemblyReference.cache
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\DataBindingDemo1.Form1.resources
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\DataBindingDemo1.Properties.Resources.resources
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\C#_CE_14.csproj.GenerateResource.cache
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\C#_CE_14.csproj.CoreCompileInputs.cache
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\DataBindingDemo1.exe
+D:\C#\CE14\C#_CE_14\obj\x86\Debug\DataBindingDemo1.pdb
