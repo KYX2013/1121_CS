@@ -8,3 +8,13 @@ D:\C#\HW9\C#_HW9-1\bin\Debug\C#_HW9-1.exe
 D:\C#\HW9\C#_HW9-1\bin\Debug\C#_HW9-1.pdb
 D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.exe
 D:\C#\HW9\C#_HW9-1\obj\Debug\C#_HW9-1.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\bin\Debug\C#_HW9-1.exe.config
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\bin\Debug\C#_HW9-1.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\bin\Debug\C#_HW9-1.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.AssemblyReference.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C__HW9_1.Form1.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C__HW9_1.Properties.Resources.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C#_HW9-1.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C#_HW9-1.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\C#_HW9-1\obj\Debug\C#_HW9-1.pdb
