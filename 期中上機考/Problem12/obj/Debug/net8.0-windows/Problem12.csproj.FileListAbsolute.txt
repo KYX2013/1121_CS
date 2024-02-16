@@ -1,0 +1,17 @@
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\bin\Debug\net8.0-windows\Problem12.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\bin\Debug\net8.0-windows\Problem12.deps.json
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\bin\Debug\net8.0-windows\Problem12.runtimeconfig.json
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\bin\Debug\net8.0-windows\Problem12.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\bin\Debug\net8.0-windows\Problem12.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.frmCal.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.AssemblyInfoInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.AssemblyInfo.cs
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\refint\Problem12.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.genruntimeconfig.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\ref\Problem12.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem12\obj\Debug\net8.0-windows\Problem12.P12.resources
