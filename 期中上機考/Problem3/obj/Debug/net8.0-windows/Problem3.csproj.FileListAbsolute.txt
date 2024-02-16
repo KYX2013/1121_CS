@@ -1,0 +1,16 @@
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\bin\Debug\net8.0-windows\Problem3.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\bin\Debug\net8.0-windows\Problem3.deps.json
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\bin\Debug\net8.0-windows\Problem3.runtimeconfig.json
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\bin\Debug\net8.0-windows\Problem3.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\bin\Debug\net8.0-windows\Problem3.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.AssemblyInfoInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.AssemblyInfo.cs
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\refint\Problem3.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.genruntimeconfig.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\ref\Problem3.dll
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem3\obj\Debug\net8.0-windows\Problem3.P3.resources
