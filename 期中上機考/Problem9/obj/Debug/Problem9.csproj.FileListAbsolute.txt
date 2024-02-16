@@ -1,0 +1,20 @@
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.exe.config
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.exe
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.AssemblyReference.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.Form1.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.Properties.Resources.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.GenerateResource.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.CoreCompileInputs.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.exe
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.exe.config
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\bin\Debug\Problem9.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.AssemblyReference.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.P9.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.Properties.Resources.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\期中上機考\Problem9\obj\Debug\Problem9.pdb
