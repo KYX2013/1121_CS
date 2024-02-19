@@ -142,3 +142,11 @@
 [期中上機考](https://hackmd.io/@Y2000/HkNANL7qp)
 ## 期末上機考
 [期末上機考](https://hackmd.io/@Y2000/HJSGBDmcp)
+
+
+## 期末專題
+利用 C# 做一個 Window Form ，復刻經典遊戲 Tetris
+包含一個主介面
+一個模式選擇介面
+一個TCP連線介面
+以及一個遊戲進行介面
