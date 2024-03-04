@@ -15,5 +15,9 @@ namespace Tetris
             Row = row;
             Col = col;
         }
+        public Position Copy()
+        {
+            return new Position(Row, Col);
+        }
     }
 }

@@ -1,13 +1,51 @@
-D:\C#\Final Project\Tetris\bin\Debug\Tetris.exe.config
-D:\C#\Final Project\Tetris\bin\Debug\Tetris.exe
-D:\C#\Final Project\Tetris\bin\Debug\Tetris.pdb
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.frmMain.resources
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.Map_Menu.resources
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.Playing.resources
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.Properties.Resources.resources
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.Theme_menu.resources
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.exe
-D:\C#\Final Project\Tetris\obj\Debug\Tetris.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.frmMain.resources
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.playing.resources
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.Theme_menu.resources
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\bin\Debug\Tetris.exe
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\bin\Debug\Tetris.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.exe
+C:\Users\KYX.DESKTOP-TS73DG7\Desktop\zc\Course\C#\final Project\Tetris\obj\Debug\Tetris.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.frmMain.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.playing.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Theme_menu.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.exe
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\bin\Debug\Tetris.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.frmMain.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Theme_menu.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.exe
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.pdb
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Playing.resources
+C:\Users\KYX.DESKTOP-TS73DG7\OneDrive - P76121568\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Map_Menu.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\Tetris\obj\Debug\Tetris.Map_Menu.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\bin\Debug\Tetris.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\bin\Debug\Tetris.pdb
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.frmMain.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.Map_Menu.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.Playing.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.Theme_menu.resources
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.exe
+C:\Users\e9407\OneDrive - 國立成功大學 National Cheng Kung University\course\1121\C#\Tetris\obj\Debug\Tetris.pdb

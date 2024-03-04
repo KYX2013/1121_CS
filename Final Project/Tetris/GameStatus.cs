@@ -17,6 +17,7 @@ namespace Tetris
                 _current = value;
             }
         }
+        public Block Shadow;
 
         public GameGrid GameGrid { get; }
         public Queue Queue { get; }
@@ -28,6 +29,8 @@ namespace Tetris
             Queue = new Queue();
             CurrentBlock = Queue.Update();
             _current.Reset();
+            Shadow = CurrentBlock.Copy();
+            ShadowUpdate();
         }
 
         private bool BlockFits()
@@ -96,6 +99,7 @@ namespace Tetris
                 CurrentBlock = Queue.Update();
                 _current.Reset();
             }
+            ShadowUpdate();
         }
 
         public void MoveBlockDown()
@@ -115,7 +119,29 @@ namespace Tetris
                 CurrentBlock.Move(1, 0);
             }
             CurrentBlock.Move(-1, 0);
-            PlaceBlock() ;
+            PlaceBlock();
+        }
+
+        //ShadowFunc
+        private bool ShadowFits()
+        {
+            foreach (Position p in Shadow.TilePositions())
+            {
+                if (!GameGrid.IsEmpty(p.Row, p.Col))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        public void ShadowUpdate()
+        {
+            Shadow = CurrentBlock.Copy();
+            while (ShadowFits())
+            {
+                Shadow.Move(1, 0);
+            }
+            Shadow.Move(-1, 0);
         }
     }
 }

@@ -14,7 +14,8 @@ namespace Tetris
     public partial class Playing : Form
     {
         private static int INIT_FREQ = 1600;
-        private static bool map = false;
+        private static bool mapMode = false;
+        private static bool playerMode = false;
         private static bool closed = false;
         private static int row = 20;
         private static int column = 10;
@@ -26,12 +27,13 @@ namespace Tetris
         private static PictureBox picNext1, picNext2, picNext3, picHold;
         private static Label scoreTxt, timeTxt;
         private static Block hold;
-        public Playing(bool mode)
+        public Playing(bool Mmode, bool Pmode)
         {
-            map = mode;
+            mapMode = Mmode;
+            playerMode = Pmode;
             InitializeComponent();
             scoreTxt = Score;timeTxt = Time;
-            status = new GameStatus(row, column, map);
+            status = new GameStatus(row, column, mapMode);
 
 
             this.Load += GameLoad;
@@ -93,7 +95,8 @@ namespace Tetris
             if (status.GameOver)
             {
                 MessageBox.Show("GAME OVER!");
-                status = new GameStatus(row, column, map);
+                status = new GameStatus(row, column, mapMode);
+                status.ShadowUpdate();
                 GameStart();
                 Refresh_ScoreTxt();
                 Refresh_TimeTxt();
@@ -105,6 +108,11 @@ namespace Tetris
                     //pictureboxes
                     ((PictureBox)panel.Controls[r*column + c]).Image = frmMain.tileImages[status.GameGrid[r, c]];
                 }
+            }
+            foreach (Position p in status.Shadow.TilePositions())
+            {
+                PictureBox target = (PictureBox)panel.Controls[p.Row * column + p.Col];
+                target.Image = frmMain.ShadowImg;
             }
 
             foreach(Position p in status.CurrentBlock.TilePositions())
@@ -129,21 +137,26 @@ namespace Tetris
             {
                 case Keys.Z:
                     status.RotateBlockCounterClockWise();
+                    status.ShadowUpdate();
                     break;
                 case Keys.Up:
                     status.RotateBlockClockWise();
+                    status.ShadowUpdate();
                     break;
                 case Keys.Down:
                     status.MoveBlockDown();
                     break;
                 case Keys.Left:
                     status.MoveBlockLeft();
+                    status.ShadowUpdate();
                     break;
                 case Keys.Right:
                     status.MoveBlockRight();
+                    status.ShadowUpdate();
                     break;
                 case Keys.Space:
                     status.MoveBlockStraightDown();
+                    status.ShadowUpdate();
                     break;
                 case Keys.ShiftKey:
                     if (hold == null)
@@ -151,6 +164,7 @@ namespace Tetris
                         hold = status.CurrentBlock;
                         status.CurrentBlock = status.Queue.Update();
                         status.CurrentBlock.Reset();
+                        status.ShadowUpdate();
                     }
                     else
                     {
@@ -159,6 +173,7 @@ namespace Tetris
                         hold = status.CurrentBlock;
                         tmp.offset = now;
                         status.CurrentBlock = tmp;
+                        status.ShadowUpdate();
                         Draw();
                     }
                     break;
@@ -180,10 +195,12 @@ namespace Tetris
                     break;
                 Draw();
             }
+            if(playerMode) return;
+
             if (!status.GameOver && time==0)
             {
                 MessageBox.Show($"遊戲結束，\n得分:{score}");
-                status = new GameStatus(row,column, map);
+                status = new GameStatus(row,column, mapMode);
                 GameStart();
                 Refresh_ScoreTxt();
                 Refresh_TimeTxt();
@@ -191,7 +208,7 @@ namespace Tetris
             else if(!status.GameOver && time > 0)
             {
                 MessageBox.Show("視窗關閉，\n遊戲結束");
-                status = new GameStatus(row, column, map);
+                status = new GameStatus(row, column, mapMode);
                 GameStart();
                 Refresh_ScoreTxt();
                 Refresh_TimeTxt();

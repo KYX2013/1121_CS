@@ -23,9 +23,10 @@ namespace Tetris
         public static Image bgImg;
         public static Image scoreImg;
         public static Image timeImg;
+        public static Image ShadowImg;
         public static int themeID = 1;
         public static int mapID = 1;
-        private static bool WithMap = false;
+        public static bool WithMap = false;
         private static frmMain tmp;
         private static List<Control> ctrls = new List<Control>();
         public frmMain()
@@ -49,11 +50,12 @@ namespace Tetris
             bgImg = Image.FromFile(ThemePath + $"\\theme_{themeID}\\Background.png");
             scoreImg = Image.FromFile(ThemePath + $"\\theme_{themeID}\\Score.png");
             timeImg = Image.FromFile(ThemePath + $"\\theme_{themeID}\\Time.png");
+            ShadowImg = Image.FromFile(ThemePath + $"\\Shadow.png");
         }
 
         private void Play_Click(object sender, EventArgs e)
         {
-            Playing playing = new Playing(WithMap);
+            Playing playing = new Playing(WithMap,false);
             playing.ShowDialog();
             WithMap = false;
         }

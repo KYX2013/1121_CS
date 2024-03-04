@@ -47,6 +47,39 @@ namespace Tetris
             offset.Row = StartOffset.Row;
             offset.Col = StartOffset.Col;
         }
+
+        public Block Copy()
+        {
+            Block nu = new IBlock();
+            switch (this.ID)
+            {
+                case 1:
+                    nu = new IBlock();
+                    break;
+                case 2:
+                    nu = new JBlock();
+                    break;
+                case 3:
+                    nu = new LBlock();
+                    break;
+                case 4:
+                    nu = new OBlock();
+                    break;
+                case 5:
+                    nu = new SBlock();
+                    break;
+                case 6:
+                    nu = new TBlock();
+                    break;
+                case 7:
+                    nu = new ZBlock();
+                    break;
+            }
+            nu.offset = this.offset.Copy();
+            nu.rotate = this.rotate;
+
+            return nu;
+        }
     }
 
     public class IBlock : Block
